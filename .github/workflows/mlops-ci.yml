@@ -24,7 +24,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pytest flake8 boto3 sagemaker scikit-learn pandas xgboost
+          pip install -r requirements.txt
 
       - name: Code Quality & Lint Verification
         run: |
