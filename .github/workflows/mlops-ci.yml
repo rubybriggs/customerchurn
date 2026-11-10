@@ -33,8 +33,8 @@ jobs:
         run: |
           echo "=== Python Version ==="
           python --version
-          echo "=== SageMaker Version ==="
-          python -c "import sagemaker; print('Version:', sagemaker.__version__)"
+          echo "=== SageMaker Location ==="
+          python -c "import sagemaker; print('LOCATION:', sagemaker.__file__)"
           echo "=== Test Import ==="
           python -c "from sagemaker.workflow.pipeline import Pipeline; print('SUCCESS: workflow module imported')"
 
