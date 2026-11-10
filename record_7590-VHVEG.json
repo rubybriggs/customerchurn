@@ -1,0 +1,134 @@
+[
+  {
+    "FeatureName": "customerID",
+    "ValueAsString": "7590-VHVEG"
+  },
+  {
+    "FeatureName": "tenure",
+    "ValueAsString": "1"
+  },
+  {
+    "FeatureName": "MonthlyCharges",
+    "ValueAsString": "29.85"
+  },
+  {
+    "FeatureName": "TotalCharges",
+    "ValueAsString": "29.85"
+  },
+  {
+    "FeatureName": "Churn",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "gender_Male",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "SeniorCitizen_1",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "Partner_Yes",
+    "ValueAsString": "1"
+  },
+  {
+    "FeatureName": "Dependents_Yes",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "PhoneService_Yes",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "MultipleLines_No_phone_service",
+    "ValueAsString": "1"
+  },
+  {
+    "FeatureName": "MultipleLines_Yes",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "InternetService_Fiber_optic",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "InternetService_No",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "OnlineSecurity_No_internet_service",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "OnlineSecurity_Yes",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "OnlineBackup_No_internet_service",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "OnlineBackup_Yes",
+    "ValueAsString": "1"
+  },
+  {
+    "FeatureName": "DeviceProtection_No_internet_service",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "DeviceProtection_Yes",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "TechSupport_No_internet_service",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "TechSupport_Yes",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "StreamingTV_No_internet_service",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "StreamingTV_Yes",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "StreamingMovies_No_internet_service",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "StreamingMovies_Yes",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "Contract_One_year",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "Contract_Two_year",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "PaperlessBilling_Yes",
+    "ValueAsString": "1"
+  },
+  {
+    "FeatureName": "PaymentMethod_Credit_card_automatic",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "PaymentMethod_Electronic_check",
+    "ValueAsString": "1"
+  },
+  {
+    "FeatureName": "PaymentMethod_Mailed_check",
+    "ValueAsString": "0"
+  },
+  {
+    "FeatureName": "EventTime",
+    "ValueAsString": "1793701198.3716626"
+  }
+]
